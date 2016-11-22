@@ -546,7 +546,7 @@
           <artifactId>asyncbigtable</artifactId>
           <version>@ASYNCBIGTABLE_VERSION@</version>
           <classifier>jar-with-dependencies</classifier>
-          <systemPath>${project.basedir}/new-jars/asyncbigtable-0.2.1-SNAPSHOT-BIGTABLE-DRIVER-jar-with-dependencies.jar</systemPath>
+          <systemPath>${project.basedir}/new-jars/asyncbigtable-0.2.2-jar-with-dependencies.jar</systemPath>
         </dependency>
       </dependencies>
 
